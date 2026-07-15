@@ -89,7 +89,7 @@
 
 # 💻 Development Environment
 
-OS:
+> OS:
 - Windows
 - Ubuntu (PRoot via Termux)
 - Kali (PRoot via Termux)
