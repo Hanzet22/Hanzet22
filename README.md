@@ -142,6 +142,8 @@ OS:
 - 🎬 Enjoy creating intros and cinematics.
 - 🏎️ Motorsport enthusiast.
 - 💸 Passive Income Warrior
+- 🕹️ Mobile Game Modding (Notes: Experimented with custom GLSL Shader modifications for *Payback 2: The Battle Sandbox* on Android, exploring reverse engineering and mobile graphics pipelines.)
+- 🤑 Studying Web3 and the Crypto World
 
 ---
 
