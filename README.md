@@ -2,7 +2,7 @@
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:ff6c00,25:f28b00,50:EEB211,75:0078b6,100:0ac0e8&text=海鹏%20鸟神&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=HyperGaruda%20•%20TKJ%20Student%20•%20AI%20Hybrid%20Workflow&descAlignY=72&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff6c00,25:f28b00,50:EEB211,75:0078b6,100:0ac0e8&text=海鹏%20鸟神&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=HyperGaruda%20•%20TKJ%20Student%20•%20AI%20Hybrid%20Workflow&descAlignY=72&descSize=20"
     alt="Header Banner"
   />
 
@@ -21,13 +21,17 @@
     <img src="https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Docker-Learning-2496ED?logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/AI-Hybrid%20Workflow-blueviolet" alt="AI Hybrid Workflow" />
-  </p>
+</p>
 
-  <p>
+<p>
     <img src="https://img.shields.io/badge/MikroTik-Learning-red" alt="MikroTik" />
     <img src="https://img.shields.io/badge/Cisco-Learning-1BA0D7?logo=cisco&logoColor=white" alt="Cisco" />
     <img src="https://img.shields.io/badge/VirtualBox-Learning-183A61?logo=virtualbox&logoColor=white" alt="VirtualBox" />
-  </p>
+</p>
+
+<p>
+    <img src="https://custom-icon-badges.demolab.com/badge/HyperGaruda-ff6c00.svg?logo=hypergaruda&logoColor=white&color=0:ff6c00,25:f28b00,50:EEB211,75:0078b6,100:0ac0e8" alt="HyperGaruda" />
+</p>
 
 </div>
 
@@ -51,10 +55,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=Hanzet22&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Hanzet22&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hanzet22&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzet22&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
   <tr>
@@ -276,39 +280,27 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-
-**Fast Response**  
-📱 WhatsApp  
-<a href="https://wa.me/6285272995674">wa.me/6285272995674</a>
-
-**Slow Response**  
-📧 Email  
-<a href="mailto:farhanzet4@gmail.com">farhanzet4@gmail.com</a>
-
+      <strong>Fast Response</strong><br>
+      📱 WhatsApp<br>
+      <a href="https://wa.me/6285272995674">wa.me/6285272995674</a><br>
+      <strong>Slow Response</strong><br>
+      📧 Email<br>
+      <a href="mailto:farhanzet4@gmail.com">farhanzet4@gmail.com</a>
     </td>
     <td width="50%" valign="top">
-
-**Medium Response**  
-📧 Email  
-<a href="mailto:hypergarudatkj@gmail.com">hypergarudatkj@gmail.com</a>
-
-💬 Telegram  
-<a href="https://t.me/Hypergaruda">t.me/Hypergaruda</a>
-
+      <strong>Medium Response</strong><br>
+      📧 Email<br>
+      <a href="mailto:hypergarudatkj@gmail.com">hypergarudatkj@gmail.com</a><br>
+      💬 Telegram<br>
+      <a href="https://t.me/Hypergaruda">t.me/Hypergaruda</a>
     </td>
   </tr>
 </table>
 
 <p>
-  🎮 Discord (Private DM): <b>hgi.id</b><br/>
+  🎮 Discord (Private DM): <b>hgi.id</b><br>
   🤝 Discord Collaboration: <b>hgi_official</b>
 </p>
-
----
-
-## 🌐 Social Media
-
-> Null
 
 ---
 
