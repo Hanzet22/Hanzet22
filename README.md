@@ -271,6 +271,7 @@
   <li>💸 Passive Income Warrior.</li>
   <li>🕹️ Mobile Game Modding (Notes: Experimented with custom GLSL Shader modifications for <i>Payback 2: The Battle Sandbox</i> on Android, exploring reverse engineering and mobile graphics pipelines.)</li>
   <li>🤑 Studying Web3 and the Crypto World.</li>
+  <li>📳 Can Reverse Engine an Application via an Android Phone that has been Cracked 100,000 times></li>
 </ul>
 
 ---
