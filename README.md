@@ -312,6 +312,7 @@
 > Keep Learning. Keep Sharing.  
 > Vorsprung Durch Technik  
 > Teruslah berkarya walau di belakang ada yang sok meramal masa depan suram
+> HEYYYYYYY JEMBUT JEMBUT ASING
 
 ---
 
@@ -324,3 +325,9 @@
 <img src="https://komarev.com/ghpvc/?username=Hanzet22&style=for-the-badge" alt="Profile Views" />
 
 </div>
+
+---
+> Btw Gw lagi Rungkad yagesya, Nggak ada duit buat beli Token OpenRouter 😂😂😂😂😂😂, Jadi banyak Projek yg ketunda. bukan Rungkad judol ya ajg
+---
+> BTW, I’m broke right now, y’know? I don’t have any money to buy OpenRouter tokens 😂😂😂😂😂😂, so a lot of my projects are on hold. It’s not because I’m broke from online gambling, though.
+---
