@@ -8,10 +8,10 @@
 
   <br /><br />
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=💻+TKJ+Student;🌐+Networking+Enthusiast;🐧+Linux+User;🤖+AI+Hybrid+Workflow;🐳+Docker+Learner;⚙️+Termux+Power+User;🏎️+FIA+WEC+%7C+IMSA+Fan;🚗+Gran+Turismo+Enjoyer;📚+Keep+Learning.+Keep+Sharing."
-    alt="Typing SVG"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&pause=1200&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%92%BB+TKJ+Student;%F0%9F%8C%90+Networking+Enthusiast;%F0%9F%90%A7+Linux+User;%F0%9F%A4%96+AI+Hybrid+Workflow;%F0%9F%90%B3+Docker+Learner;%E2%9A%99%EF%B8%8F+Termux+Power+User;%F0%9F%8F%8E%EF%B8%8F+FIA+WEC+%7C+IMSA+Fan;%F0%9F%9A%97+Gran+Turismo+Enjoyer;%F0%9F%93%9A+Keep+Learning.+Keep+Sharing."
+  alt="Typing SVG"
+/>
 
   <br /><br />
 
