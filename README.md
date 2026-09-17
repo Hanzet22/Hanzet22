@@ -16,11 +16,13 @@
   <br /><br />
 
   <p>
-    <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Linux Ubuntu" />
-    <img src="https://img.shields.io/badge/Termux-000000?logo=gnubash&logoColor=white" alt="Termux" />
-    <img src="https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Docker-Learning-2496ED?logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/AI-Hybrid%20Workflow-blueviolet" alt="AI Hybrid Workflow" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Linux Ubuntu" />
+  <img src="https://img.shields.io/badge/Linux-Kali%20Linux-557C94?logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Linux-Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=white" alt="Alpine Linux" />
+  <img src="https://img.shields.io/badge/Termux-000000?logo=gnubash&logoColor=white" alt="Termux" />
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AI-Hybrid%20Workflow-blueviolet" alt="AI Hybrid Workflow" />
 </p>
 
 <p>
@@ -218,6 +220,7 @@
 - Windows
 - Ubuntu (PRoot via Termux)
 - Kali (PRoot via Termux)
+- Alpine (PRoot via Termux)
 
     </td>
     <td width="25%" valign="top">
@@ -273,6 +276,148 @@
   <li>🤑 Studying Web3 and the Crypto World.</li>
   <li>📳 Can Reverse Engine an Application via an Android Phone that has been Cracked 100,000 times></li>
 </ul>
+
+---
+
+## 📚 Project List
+
+<p align="center">
+  <strong>🚀 Projects • 🧪 Experiments • 🧬 Development History</strong>
+</p>
+
+---
+
+### 🚀 Main Projects
+
+| Project | Description | Status |
+|---|---|---|
+| [▶️ YouTube Downloader](https://github.com/Hanzet22/YouTube-Downloader) | Yete X FFmpeg — YouTube Downloader berbasis FFmpeg | 🚀 Project |
+| [🔬 HG-ESR-NET](https://github.com/Hanzet22/HG-ESR-NET) | HyperGaruda Enhanced Super-Resolution Network — development sistem Real-ESRGAN | 🔄 V2 Development |
+
+---
+
+### 🧬 Real-ESRGAN Development History
+
+<p align="center">
+  <code>Gatau-ini-apaan-</code>
+  →
+  <code>Custom-Inference-Universal</code>
+  →
+  <code>Inference-Modification</code>
+  →
+  <code>HG-ESR-NET</code>
+</p>
+
+| Stage | Project | Description |
+|---|---|---|
+| 01 | [Gatau-ini-apaan-](https://github.com/Hanzet22/Gatau-ini-apaan-) | Development pertama sebelum HG-ESR-NET |
+| 02 | [Custom-Inference-Universal](https://github.com/Hanzet22/Custom-Inference-Universal) | Development kedua sebelum HG-ESR-NET |
+| 03 | [Inference-Modification](https://github.com/Hanzet22/Inference-Modification) | Development ketiga sebelum HG-ESR-NET |
+| 04 | [HG-ESR-NET](https://github.com/Hanzet22/HG-ESR-NET) | Development utama sistem Real-ESRGAN |
+
+---
+
+### 🗃️ Previous / Abandoned Projects
+
+| Project | Description | Status |
+|---|---|---|
+| [🦊 GAN-Furry-Art-Photo](https://github.com/Hanzet22/GAN-Furry-Art-Photo) | Original RealESRGAN System | 🔴 Abandoned |
+| [🎬 LTX-Video-Upscaler](https://github.com/Hanzet22/LTX-Video-Upscaler) | Video Upscaling — hal tergebleg yang pernah dibuat 💀 | 🧪 Experimental |
+
+---
+
+### 🧪 Experimental / Miscellaneous
+
+| Project | Description | Status |
+|---|---|---|
+| [🌐 hypergaruda-API](https://github.com/Hanzet22/hypergaruda-API) | Project gabut dari API StarXlabs / BintangAPI | 🧪 Experimental |
+| [🗂️ TKJ-Dumps](https://github.com/Hanzet22/TKJ-Dumps) | Hasil dumping project joki untuk anak-anak TKJ pada awal Juli | 📦 Archive |
+
+---
+
+### 🗺️ Development Roadmap
+
+<p align="center">
+  <code>01</code> Gatau-ini-apaan-
+  →
+  <code>02</code> Custom-Inference-Universal
+  →
+  <code>03</code> Inference-Modification
+  →
+  <code>04</code> HG-ESR-NET
+  →
+  <code>V2</code> Development
+</p>
+
+---
+
+### 📊 Project Overview
+
+| # | Project | Type | Status |
+|---:|---|---|---|
+| 01 | [YouTube Downloader](https://github.com/Hanzet22/YouTube-Downloader) | Yete X FFmpeg | 🚀 Project |
+| 02 | [HG-ESR-NET](https://github.com/Hanzet22/HG-ESR-NET) | Real-ESRGAN Development | 🔄 V2 Development |
+| 03 | [Gatau-ini-apaan-](https://github.com/Hanzet22/Gatau-ini-apaan-) | Real-ESRGAN Development 01 | 📦 Previous |
+| 04 | [Custom-Inference-Universal](https://github.com/Hanzet22/Custom-Inference-Universal) | Real-ESRGAN Development 02 | 📦 Previous |
+| 05 | [Inference-Modification](https://github.com/Hanzet22/Inference-Modification) | Real-ESRGAN Development 03 | 📦 Previous |
+| 06 | [GAN-Furry-Art-Photo](https://github.com/Hanzet22/GAN-Furry-Art-Photo) | Original RealESRGAN System | 🔴 Abandoned |
+| 07 | [hypergaruda-API](https://github.com/Hanzet22/hypergaruda-API) | StarXlabs / BintangAPI | 🧪 Experimental |
+| 08 | [LTX-Video-Upscaler](https://github.com/Hanzet22/LTX-Video-Upscaler) | Video Upscaling | 🧪 Experimental |
+| 09 | [TKJ-Dumps](https://github.com/Hanzet22/TKJ-Dumps) | Project Dumps | 📦 Archive |
+
+---
+## 🌐 Web Projects
+
+<p align="center">
+  <strong>🌐 Web Projects • 🚀 Deployments • 🧪 Experiments</strong>
+</p>
+
+---
+
+### 🚀 GitHub Web Projects
+
+| Project | Description | Repository | Website | Status |
+|---|---|---|---|---|
+| 🕒 **BNB Real-Time Timeline** | Real-time timeline web project | [GitHub](https://github.com/Hanzet22/bnb-real-time-timeline) | [Live Demo](https://bnb-real-time-timeline.vercel.app/) | 🟢 Active |
+| 🌐 **Gabut Web GL Aja** | Experimental WebGL web project | [GitHub](https://github.com/Hanzet22/gabut-web-gl-aja) | [Live Demo](https://gabut-web-gl-aja.vercel.app/) | 🧪 Experimental |
+| 🟨 **BSC Grid Next** | Next.js / BSC Grid experiment | [GitHub](https://github.com/Hanzet22/bsc-grid-next) | [Vercel](https://bsc-grid-next.vercel.app/) | ⏸️ Paused — Deployment Error |
+
+---
+
+### 🤖 Non-GitHub Web Projects
+
+| Project | Description | Website | Status |
+|---|---|---|---|
+| 🏫 **SMKN 1 Mandau Replica** | Replika website SMKN 1 Mandau | [Live Website](https://smkn-1-mandau-replicas.vercel.app/) | 🤖 Built with Hermes Agent |
+| 📡 **Verus Miner Telemetry** | Web telemetry project | [Live Website](https://verus-miner-telemetry.vercel.app/) | 🤖 Built with Claude |
+
+---
+
+### 🗺️ Web Development Overview
+
+| # | Project | Source | Deployment | Status |
+|---:|---|---|---|---|
+| 01 | 🕒 BNB Real-Time Timeline | GitHub | Vercel | 🟢 Active |
+| 02 | 🌐 Gabut Web GL Aja | GitHub | Vercel | 🧪 Experimental |
+| 03 | 🟨 BSC Grid Next | GitHub | Vercel | ⏸️ Paused |
+| 04 | 🏫 SMKN 1 Mandau Replica | Non-GitHub | Vercel | 🤖 Hermes Agent |
+| 05 | 📡 Verus Miner Telemetry | Non-GitHub | Vercel | 🤖 Claude |
+
+---
+
+### 🧬 Development Timeline
+
+<p align="center">
+  <code>BNB Real-Time Timeline</code>
+  →
+  <code>Gabut Web GL Aja</code>
+  →
+  <code>BSC Grid Next</code>
+  →
+  <code>SMKN 1 Mandau Replica</code>
+  →
+  <code>Verus Miner Telemetry</code>
+</p>
 
 ---
 
