@@ -490,7 +490,7 @@
 
 <p><i>Keep Learning. Keep Sharing.</i></p>
 
-<img src="https://komarev.com/ghpvc/?username=Hanzet22&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Hanzet22&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
 
 </div>
 
