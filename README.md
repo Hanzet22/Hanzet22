@@ -52,6 +52,29 @@
 
 ---
 
+<h2 align="center">🌍 Academic Identity</h2>
+
+<p align="center">
+  🆔 <b>ORCID:</b>
+  <a href="https://orcid.org/0009-0007-2735-991X">0009-0007-2735-991X</a><br/>
+  📚 <b>Web of Science ResearcherID:</b> RFB-8340-2026<br/>
+  👤 <b>Research Name:</b> Muhammad Farhan; Burhan<br/>
+  🦅 <b>Research Alias:</b> 海鹏鸟神 / HyperGaruda
+</p>
+
+---
+
+<h2 align="center">🚀 Interests & Focus</h2>
+
+<p align="center">
+  🔧 Networking & Infrastructure • 🐧 Linux & Open Source<br/>
+  🤖 AI & Machine Learning • 🔬 Technical Research<br/>
+  💻 Programming & Reverse Engineering • 🛡️ Digital Forensics<br/>
+  🏎️ Motorsport Technology • 🎨 Digital Creativity
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <table align="center">
