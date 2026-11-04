@@ -91,6 +91,21 @@ See [PROJECT_STATUS.md](./PROJECT_STATUS.md) for the status definitions and the 
 
 ---
 
+## 📡 Project Status & Release Tracking
+
+| Project | Status | Version / tracking |
+|---|---|---|
+| [Security-Audit-MCP-Ver](https://github.com/Hanzet22/Security-Audit-MCP-Ver) | Released | v0.3.1 · [Releases](https://github.com/Hanzet22/Security-Audit-MCP-Ver/releases) · [Tags](https://github.com/Hanzet22/Security-Audit-MCP-Ver/tags) |
+| [FurFinder](https://github.com/Hanzet22/FurFinder) | Active development · Web MVP | [Releases](https://github.com/Hanzet22/FurFinder/releases) · [Tags](https://github.com/Hanzet22/FurFinder/tags) |
+| [Sekereper](https://github.com/Hanzet22/Sekereper) | Maintained · experimental | v3.7.0 · [Releases](https://github.com/Hanzet22/Sekereper/releases) · [Tags](https://github.com/Hanzet22/Sekereper/tags) |
+| [HG-ESR-NET](https://github.com/Hanzet22/HG-ESR-NET) | Released | v1.2.0 · [Releases](https://github.com/Hanzet22/HG-ESR-NET/releases) · [Tags](https://github.com/Hanzet22/HG-ESR-NET/tags) |
+| [HyperAI Backend](https://github.com/Hanzet22/hyperai-openrouter-backend) | Development delayed | [Releases](https://github.com/Hanzet22/hyperai-openrouter-backend/releases) · [Tags](https://github.com/Hanzet22/hyperai-openrouter-backend/tags) |
+| [FurCon Compliance Audit](https://github.com/Hanzet22/furcon-compliance-audit) | Maintained · v1.2.0 | [Releases](https://github.com/Hanzet22/furcon-compliance-audit/releases) · [Tags](https://github.com/Hanzet22/furcon-compliance-audit/tags) |
+
+Release and tag pages are the source of truth for published versions. Status labels describe the current development state, not a promised release date.
+
+---
+
 ## 🧪 Other Projects & Experiments
 
 ### AI, image processing, and utilities
@@ -215,6 +230,17 @@ Tool availability can vary by project and environment; not every repository is b
 For project questions, bug reports, or collaboration, please use a public repository issue or email.
 
 **More contact options, including WhatsApp, are available through the [HyperGaruda Link Hub](https://hypergaruda-next.netlify.app/).**
+
+---
+
+## 🤝 Credits, Contributors & Upstream Acknowledgements
+
+- **Project maintainer:** [@Hanzet22](https://github.com/Hanzet22).
+- **Security-Audit-MCP-Ver:** independently implemented workflow inspired by [Cloudflare's Security Audit Skill](https://github.com/cloudflare/security-audit-skill). This project is not affiliated with or endorsed by Cloudflare; upstream material retains its own licence and notices.
+- **HG-ESR-NET:** builds on upstream Real-ESRGAN work by **Xintao Wang** and the [Spandrel](https://github.com/chaiNNer-org/spandrel) architecture ecosystem. See the repository's licence and attribution files.
+- **AI-assisted workflow:** Claude, OpenAI, and OpenRouter may be used as development tools where applicable. Providers are not represented as project owners or human co-authors.
+
+I only add GitHub @mentions when a person's account and contribution can be verified from repository records or explicit attribution. No speculative collaborator tags are added.
 
 ---
 
