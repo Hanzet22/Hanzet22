@@ -237,7 +237,7 @@ For project questions, bug reports, or collaboration, please use a public reposi
 
 - **Project maintainer:** [@Hanzet22](https://github.com/Hanzet22).
 - **Security-Audit-MCP-Ver:** independently implemented workflow inspired by [Cloudflare's Security Audit Skill](https://github.com/cloudflare/security-audit-skill). This project is not affiliated with or endorsed by Cloudflare; upstream material retains its own licence and notices.
-- **HG-ESR-NET:** builds on upstream Real-ESRGAN work by **Xintao Wang** and the [Spandrel](https://github.com/chaiNNer-org/spandrel) architecture ecosystem. See the repository's licence and attribution files.
+- **HG-ESR-NET:** builds on upstream Real-ESRGAN work by **Xintao Wang** ([`@xinntao`](https://github.com/xinntao)) and the [Spandrel](https://github.com/chaiNNer-org/spandrel) architecture ecosystem. See the repository's licence and attribution files.
 - **AI-assisted workflow:** Claude, OpenAI, and OpenRouter may be used as development tools where applicable. Providers are not represented as project owners or human co-authors.
 
 I only add GitHub @mentions when a person's account and contribution can be verified from repository records or explicit attribution. No speculative collaborator tags are added.
@@ -262,6 +262,14 @@ I only add GitHub @mentions when a person's account and contribution can be veri
 
 ---
 
+---
+
+## ⚠️ Development Notice
+
+Several projects are temporarily delayed because my OpenRouter token access is currently unavailable / disrupted. Development will resume as access is restored. This may affect AI-powered features and related project timelines.
+
+---
+
 ## ⚖️ Rights, Attribution & Takedown Requests
 
 If you believe a repository contains material that infringes your copyright, violates a license, misattributes your work, or uses an asset without appropriate permission, please contact me so I can review it.
@@ -279,7 +287,3 @@ For formal copyright complaints involving content hosted on GitHub, rights holde
 See [TAKEDOWN_POLICY.md](./TAKEDOWN_POLICY.md) for the full project-level procedure and scope.
 
 ---
-
-## ⚠️ Development Notice
-
-Several projects are temporarily delayed because my OpenRouter token access is currently unavailable / disrupted. Development will resume as access is restored. This may affect AI-powered features and related project timelines.
