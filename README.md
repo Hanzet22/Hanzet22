@@ -17,6 +17,10 @@
     <img src="https://img.shields.io/badge/AI-Hybrid%20Workflow-7B61FF" alt="AI hybrid workflow" />
   </p>
 
+  <p>
+    <a href="https://hypergaruda-next.netlify.app/"><img src="https://img.shields.io/badge/HyperGaruda-Link%20Hub-111827?style=for-the-badge&logo=netlify&logoColor=white" alt="HyperGaruda Link Hub" /></a>
+  </p>
+
 </div>
 
 ---
@@ -29,6 +33,10 @@
   💻 TKJ Student • Networking & Linux Learner<br/>
   🧩 Open-source Projects • MCP Tools • Web Development<br/>
   🎨 Digital Creativity • 🏎️ Motorsport Enthusiast
+</p>
+
+<p align="center">
+  <b>🌐 All links:</b> <a href="https://hypergaruda-next.netlify.app/">HyperGaruda Link Hub ↗</a>
 </p>
 
 ---
@@ -157,13 +165,26 @@ Tool availability can vary by project and environment; not every repository is b
 
 ---
 
-## 📬 Contact
+## 🌐 Socials & Online Profiles
 
-- **Email:** [hypergarudatkj@gmail.com](mailto:hypergarudatkj@gmail.com)
-- **Telegram:** [t.me/Hypergaruda](https://t.me/Hypergaruda)
+- **Instagram:** [@muhamad_farhannn_](https://www.instagram.com/muhamad_farhannn_/)
+- **Threads:** [@muhamad_farhannn_](https://www.threads.com/@muhamad_farhannn_)
+- **LinkedIn:** [Muhammad Farhan](https://www.linkedin.com/in/muhammad-farhan-a08897439/)
+- **Behance:** [farhanzet_22](https://www.behance.net/farhanzet_22)
+- **Douyin:** [HyperGaruda](https://v.douyin.com/ECQLLZK3pbY/)
 - **GitHub:** [@Hanzet22](https://github.com/Hanzet22)
 
+## 📬 Contact
+
+- **Personal Email:** [farhanzet4@gmail.com](mailto:farhanzet4@gmail.com)
+- **Project / TKJ Email:** [hypergarudatkj@gmail.com](mailto:hypergarudatkj@gmail.com)
+- **Telegram:** [@Hypergaruda](https://t.me/Hypergaruda)
+- **Discord (personal):** `hgi.id`
+- **Discord (official):** `hgi_official`
+
 For project questions, bug reports, or collaboration, please use a public repository issue or email.
+
+**More contact options, including WhatsApp, are available through the [HyperGaruda Link Hub](https://hypergaruda-next.netlify.app/).**
 
 ---
 
