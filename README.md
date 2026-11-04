@@ -128,8 +128,8 @@ Tool availability can vary by project and environment; not every repository is b
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanzet22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzet22&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://hanzet22-github-stats-extended.vercel.app/api?username=Hanzet22" alt="HyperGaruda GitHub statistics" />
+  <img src="https://hanzet22-github-stats-extended.vercel.app/api/top-langs?username=Hanzet22" alt="HyperGaruda most used languages" />
 
 </div>
 
