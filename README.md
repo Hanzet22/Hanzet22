@@ -18,6 +18,11 @@
   </p>
 
   <p>
+    <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude by Anthropic" />
+    <img src="https://img.shields.io/badge/OpenAI-Platform-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  </p>
+
+  <p>
     <a href="https://hypergaruda-next.netlify.app/"><img src="https://img.shields.io/badge/HyperGaruda-Link%20Hub-111827?style=for-the-badge&logo=netlify&logoColor=white" alt="HyperGaruda Link Hub" /></a>
   </p>
 
@@ -203,3 +208,9 @@ For project questions, bug reports, or collaboration, please use a public reposi
   <img src="https://komarev.com/ghpvc/?username=Hanzet22&style=for-the-badge&label=Profile%20Views" alt="Profile views" />
 
 </div>
+
+---
+
+## ⚠️ Development Notice
+
+Several projects are temporarily delayed because my OpenRouter token access is currently unavailable / disrupted. Development will resume as access is restored. This may affect AI-powered features and related project timelines.
