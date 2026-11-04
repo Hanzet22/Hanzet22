@@ -130,7 +130,8 @@ Other repositories include Android experiments, app research, metadata tooling, 
 
 I build on open-source projects, published research, and community contributions. Relevant upstream projects and maintainers are credited in each repository's `ATTRIBUTIONS.md`; these acknowledgements do **not** imply sponsorship, partnership, or endorsement.
 
-- **Super-resolution:** [@xinntao](https://github.com/xinntao), [@XPixelGroup](https://github.com/XPixelGroup), [@chaiNNer-org](https://github.com/chaiNNer-org), [@joeyballentine](https://github.com/joeyballentine), [@RunDevelopment](https://github.com/RunDevelopment), [@bilibili](https://github.com/bilibili), and [@2ji3150](https://github.com/2ji3150) (feedback reference recorded in HG-ESR-NET documentation).
+- **Super-resolution upstream projects and maintainers:** [@xinntao](https://github.com/xinntao), [@XPixelGroup](https://github.com/XPixelGroup), [@chaiNNer-org](https://github.com/chaiNNer-org), [@joeyballentine](https://github.com/joeyballentine), [@RunDevelopment](https://github.com/RunDevelopment), and [@bilibili](https://github.com/bilibili).
+- **Upstream feedback acknowledgement:** [@2ji3150](https://github.com/2ji3150) is thanked in the [upstream Real-ESRGAN feedback notes](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/feedback.md) for feedback linked to [issue #131](https://github.com/xinntao/Real-ESRGAN/issues/131). This is an upstream acknowledgement, not evidence of a contribution to HG-ESR-NET.
 - **Security-audit workflow reference:** [@cloudflare](https://github.com/cloudflare) — upstream material and license notices are documented in Security-Audit-MCP-Ver.
 - **Scraping/runtime dependencies:** [@cheeriojs](https://github.com/cheeriojs), [@motdotla](https://github.com/motdotla), [@expressjs](https://github.com/expressjs), [@whitequark](https://github.com/whitequark), and [@microsoft](https://github.com/microsoft).
 
