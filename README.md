@@ -65,14 +65,29 @@ I prefer learning by building, testing, documenting, and improving projects step
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Current status |
+| Project | Purpose | Status |
 |---|---|---|
-| [Security-Audit-MCP-Ver](https://github.com/Hanzet22/Security-Audit-MCP-Ver) | Read-only, evidence-led source-code security audit workflow exposed through MCP. Includes reconnaissance, coverage planning, findings validation, verification records, and report generation. | **v0.3.1 released** |
-| [FurFinder](https://github.com/Hanzet22/FurFinder) | Global furry-community discovery platform for communities, conventions, creators, organizations, and industry resources. Built with React, TypeScript, Supabase, and Vercel Functions. | **Web MVP in development** |
-| [Sekereper](https://github.com/Hanzet22/Sekereper) | HANZET-SCRAPER: modular HTTP(S) scraping and crawl workbench with bounded jobs, structured exports, parsers, and URL safety controls. | **v3.7.0** |
-| [HG-ESR-NET](https://github.com/Hanzet22/HG-ESR-NET) | Universal image super-resolution inference engine with automatic architecture detection and support for 25+ restoration architectures through Spandrel. | **v1.2.0** |
-| [HyperAI Backend](https://github.com/Hanzet22/hyperai-openrouter-backend) | AI web-client backend using Vercel Functions and OpenRouter, with server-side request handling and configurable model/search features. | **Active development** |
-| [FurCon Compliance Audit](https://github.com/Hanzet22/furcon-compliance-audit) | Hermes Agent skill for structured preliminary reviews of furry convention Terms & Conditions and Codes of Conduct. | **v1.2.0** |
+| [Security-Audit-MCP-Ver](https://github.com/Hanzet22/Security-Audit-MCP-Ver) | Read-only, evidence-led source-code security audit workflow exposed through MCP. | **v0.3.1 released** |
+| [FurFinder](https://github.com/Hanzet22/FurFinder) | Global furry-community discovery platform with source transparency, moderation, and privacy safeguards. | **MVP development** |
+| [Sekereper](https://github.com/Hanzet22/Sekereper) | HANZET-SCRAPER: modular HTTP(S) scraping and crawl workbench with structured exports and URL safety controls. | **v3.7.0** |
+| [HG-ESR-NET](https://github.com/Hanzet22/HG-ESR-NET) | Universal image super-resolution inference engine with automatic architecture detection. | **v1.2.0** |
+| [HyperAI Backend](https://github.com/Hanzet22/hyperai-openrouter-backend) | AI web-client backend using Vercel Functions and OpenRouter. | **Temporarily delayed** |
+| [FurCon Compliance Audit](https://github.com/Hanzet22/furcon-compliance-audit) | Hermes Agent skill for preliminary reviews of furry convention Terms & Conditions and Codes of Conduct. | **v1.2.0** |
+
+## 📡 Project Status & Releases
+
+Project status is maintained as a concise overview, not a guarantee of release dates or service availability.
+
+| Project | Status / release tracking |
+|---|---|
+| Security-Audit-MCP-Ver | [Releases](https://github.com/Hanzet22/Security-Audit-MCP-Ver/releases) · [Issues](https://github.com/Hanzet22/Security-Audit-MCP-Ver/issues) |
+| FurFinder | [Development](https://github.com/Hanzet22/FurFinder) · [Issues](https://github.com/Hanzet22/FurFinder/issues) |
+| Sekereper | [Releases](https://github.com/Hanzet22/Sekereper/releases) · [Changelog](https://github.com/Hanzet22/Sekereper/blob/main/CHANGELOG.md) |
+| HG-ESR-NET | [Releases](https://github.com/Hanzet22/HG-ESR-NET/releases) · [Version history](https://github.com/Hanzet22/HG-ESR-NET/blob/main/VERSION.md) |
+| HyperAI Backend | [Repository](https://github.com/Hanzet22/hyperai-openrouter-backend) · [Issues](https://github.com/Hanzet22/hyperai-openrouter-backend/issues) |
+| FurCon Compliance Audit | [Releases](https://github.com/Hanzet22/furcon-compliance-audit/releases) · [Changelog](https://github.com/Hanzet22/furcon-compliance-audit/blob/main/CHANGELOG.md) |
+
+See [PROJECT_STATUS.md](./PROJECT_STATUS.md) for the status definitions and the expanded project tracker.
 
 ---
 
@@ -95,6 +110,16 @@ I prefer learning by building, testing, documenting, and improving projects step
 Other repositories include Android experiments, app research, metadata tooling, and networking-related learning projects. Some are archived, experimental, or maintained as historical references rather than active products.
 
 ---
+
+## 🤝 Upstream Credits & Acknowledgements
+
+I build on open-source projects, published research, and community contributions. Relevant upstream projects and maintainers are credited in each repository's `ATTRIBUTIONS.md`; these acknowledgements do **not** imply sponsorship, partnership, or endorsement.
+
+- **Super-resolution:** [@xinntao](https://github.com/xinntao), [@XPixelGroup](https://github.com/XPixelGroup), [@chaiNNer-org](https://github.com/chaiNNer-org), [@bilibili](https://github.com/bilibili), and [@2ji3150](https://github.com/2ji3150) (feedback reference recorded in HG-ESR-NET documentation).
+- **Security-audit workflow reference:** [@cloudflare](https://github.com/cloudflare) — upstream material and license notices are documented in Security-Audit-MCP-Ver.
+- **Scraping/runtime dependencies:** [@cheeriojs](https://github.com/cheeriojs), [@motdotla](https://github.com/motdotla), [@expressjs](https://github.com/expressjs), [@whitequark](https://github.com/whitequark), and [@microsoft](https://github.com/microsoft).
+
+Please check each project's attribution and license files for the exact scope of material used. If an account or attribution is inaccurate, let me know so it can be corrected.
 
 ## 🛠️ Skills & Learning
 
@@ -208,6 +233,24 @@ For project questions, bug reports, or collaboration, please use a public reposi
   <img src="https://komarev.com/ghpvc/?username=Hanzet22&style=for-the-badge&label=Profile%20Views" alt="Profile views" />
 
 </div>
+
+---
+
+## ⚖️ Rights, Attribution & Takedown Requests
+
+If you believe a repository contains material that infringes your copyright, violates a license, misattributes your work, or uses an asset without appropriate permission, please contact me so I can review it.
+
+**For a useful report, include:**
+1. The exact repository URL and affected file path(s) or asset URL(s).
+2. A description of the work you own or are authorized to represent.
+3. The reason you believe the material should be removed, replaced, or re-attributed.
+4. The specific resolution requested and a reliable way to contact you.
+
+Please do not publish private information, credentials, or sensitive evidence in a public issue. Use the project email listed above for private correspondence. I will review good-faith reports, verify the relevant source and license history, and take appropriate action where warranted. A report is not an automatic finding of infringement, and no fixed response or removal timeline is promised.
+
+For formal copyright complaints involving content hosted on GitHub, rights holders may also use [GitHub's official DMCA takedown process](https://docs.github.com/en/site-policy/content-removal-policies/dmca-takedown-policy). This profile notice does not replace GitHub's process or legal requirements. Please submit accurate, good-faith claims only; knowingly false or misleading claims can have consequences.
+
+See [TAKEDOWN_POLICY.md](./TAKEDOWN_POLICY.md) for the full project-level procedure and scope.
 
 ---
 
