@@ -119,7 +119,7 @@ Release and tag pages are the source of truth for published versions. Status lab
 - [BNB Real-Time Timeline](https://github.com/Hanzet22/bnb-real-time-timeline)
 - [Gabut Web GL Aja](https://github.com/Hanzet22/gabut-web-gl-aja)
 - [BSC Grid Next](https://github.com/Hanzet22/bsc-grid-next)
-- [SMKN 1 Mandau Replica](https://github.com/TKJ-Team-SMKN1/smkn1mandau-replika-rtd) — Replica of Official Site
+- [SMKN 1 Mandau RTD](https://github.com/TKJ-Team-SMKN1/smkn1mandau-replika-rtd) — Independent school-website replica built under the Replica Technical Development approach.
 - [SMKN 1 Mandau Site](https://github.com/Hanzet22/smkn1mandau-site) — Draft Version of [RTD](https://github.com/TKJ-Team-SMKN1/smkn1mandau-replika-rtd)
 
 Other repositories include Android experiments, app research, metadata tooling, and networking-related learning projects. Some are archived, experimental, or maintained as historical references rather than active products.
@@ -136,6 +136,18 @@ I build on open-source projects, published research, and community contributions
 - **Scraping/runtime dependencies:** [@cheeriojs](https://github.com/cheeriojs), [@motdotla](https://github.com/motdotla), [@expressjs](https://github.com/expressjs), [@whitequark](https://github.com/whitequark), and [@microsoft](https://github.com/microsoft).
 
 Please check each project's attribution and license files for the exact scope of material used. If an account or attribution is inaccurate, let me know so it can be corrected.
+
+
+
+## 🧩 RTD — Replica Technical Development
+
+**RTD (Replica Technical Development)** is my cross-project approach to rebuilding websites through independent technical implementations. It is not limited to school websites: any website replica I develop using a distinct architecture, technology stack, system design, interface implementation, or infrastructure can carry the `-rtd` project identity.
+
+The replica does not need to use the same technology as its source website. RTD describes the engineering and development approach behind the rebuild, not an official relationship with the original site or organization.
+
+For clarity, RTD projects should identify themselves as independent replicas, respect the original owners' rights and third-party licenses, and provide a clearly labeled link to the original website when appropriate. The original source link is a navigation option, not an automatic redirect.
+
+**Example:** [SMKN 1 Mandau RTD](https://github.com/TKJ-Team-SMKN1/smkn1mandau-replika-rtd) · [Replica website](https://smkn1mandau.vercel.app/) · [Original school website](https://smkn1mandau.sch.id/)
 
 ## 🛠️ Skills & Learning
 
