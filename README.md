@@ -119,8 +119,8 @@ Release and tag pages are the source of truth for published versions. Status lab
 - [BNB Real-Time Timeline](https://github.com/Hanzet22/bnb-real-time-timeline)
 - [Gabut Web GL Aja](https://github.com/Hanzet22/gabut-web-gl-aja)
 - [BSC Grid Next](https://github.com/Hanzet22/bsc-grid-next)
-- [SMKN 1 Mandau Replica](https://github.com/Hanzet22/smkn1mandau-replika-rtd) — unofficial practice project.
-- [SMKN 1 Mandau Site](https://github.com/Hanzet22/smkn1mandau-site)
+- [SMKN 1 Mandau Replica](https://github.com/TKJ-Team-SMKN1/smkn1mandau-replika-rtd) — Replica of Official Site
+- [SMKN 1 Mandau Site](https://github.com/Hanzet22/smkn1mandau-site) — Draft Version of [RTD](https://github.com/TKJ-Team-SMKN1/smkn1mandau-replika-rtd)
 
 Other repositories include Android experiments, app research, metadata tooling, and networking-related learning projects. Some are archived, experimental, or maintained as historical references rather than active products.
 
