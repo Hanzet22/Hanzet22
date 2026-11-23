@@ -149,6 +149,24 @@ For clarity, RTD projects should identify themselves as independent replicas, re
 
 **Example:** [SMKN 1 Mandau RTD](https://github.com/TKJ-Team-SMKN1/smkn1mandau-replika-rtd) · [Replica website](https://smkn1mandau.vercel.app/) · [Original school website](https://smkn1mandau.sch.id/)
 
+## 🧭 CI — Concept Independent
+
+**CI (Concept Independent)** is my approach to developing an original, independently designed website concept for a specific organization, studio, or project. Unlike RTD, CI is not a reconstruction of an existing website; it starts from a proposed direction and is shaped around the intended project's needs.
+
+### Current concept: FureedomFur Studio
+
+I am exploring an independent website concept for **FureedomFur Studio**, with the goal of proposing a platform direction that could be discussed with the studio.
+
+- **Classification:** CI — Concept Independent.
+- **Current stage:** Concept / exploratory; not an approved client project.
+- **Relationship:** No formal partnership, appointment, or authorization is implied.
+- **Branding and assets:** Studio names, logos, visual identity, and other protected materials will only be used in a public or official-facing implementation with the studio's permission.
+- **Next step:** Seek explicit written approval and align the scope, content, design direction, and publication responsibilities before presenting anything as an official studio website.
+
+This concept is independently initiated. It must not be represented as the studio's official website or as an endorsement, partnership, or commissioned project unless the studio explicitly authorizes that status.
+
+---
+
 ## 🛠️ Skills & Learning
 
 I separate hands-on familiarity from topics I am still learning.
